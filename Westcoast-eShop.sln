@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eShop.models", "eShop.models\eShop.models.csproj", "{F7AD901B-A9F4-4284-8B79-54E210E10B57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eShop.app", "eshop.app\eShop.app.csproj", "{7579843E-FD42-4250-84A7-2BA6BDF1A59C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eShop.app", "eShop.app\eShop.app.csproj", "{7579843E-FD42-4250-84A7-2BA6BDF1A59C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eShop.web", "eShop.web\eShop.web.csproj", "{C22389E4-E5B1-4504-9622-03EADA5D287F}"
 EndProject
