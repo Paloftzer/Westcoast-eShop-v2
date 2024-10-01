@@ -1,7 +1,7 @@
 ﻿using System.Text.Encodings.Web;
 using System.Text.Json;
 
-namespace Westcoast_EShop.Models;
+namespace eShop.Models;
 
 public class Storage
 {

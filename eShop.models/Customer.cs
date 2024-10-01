@@ -1,4 +1,4 @@
-﻿namespace Westcoast_EShop.Models;
+﻿namespace eShop.Models;
 
 public class Customer
 {
