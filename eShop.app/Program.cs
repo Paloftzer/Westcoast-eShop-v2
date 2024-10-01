@@ -13,6 +13,11 @@ class Program
         foreach (var order in orders)
         {
             Console.WriteLine(order);
+        
+            foreach (var item in order.OrderItems!)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }
